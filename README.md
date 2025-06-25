@@ -8,6 +8,7 @@ A collection of drivers and libraries for ESP32 boards.
 
 ![Folders Git](imgs/foldersgit.png)
 
+## MAKE SURE THE DEVICE IS CONNECTED BEFORE INSTALLING
 ---
 
 ### CP210x Driver
