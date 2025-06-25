@@ -40,3 +40,14 @@ A collection of drivers and libraries for ESP32 boards.
 2. Go to **File** > **Preferences** > **Additional Board URLs**.
 3. Click the green icon next to the input field.
 4. Add this URL, then click **OK**:  
+   [https://dl.espressif.com/dl/package_esp32_index.json](https://dl.espressif.com/dl/package_esp32_index.json)
+5. Go to the **Boards Manager** (click the board icon on the left sidebar).
+6. Search for **ESP32 by Espressif Systems** and install it.
+
+---
+
+## Setting Up the ESP32 Board
+
+1. Go to **Tools** > **Board** > **ESP32 Arduino** > **ESP32 Dev Module**.
+2. Go to **Tools** > **Port** and select the COM port number shown in *Device Manager*.
+
